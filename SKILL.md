@@ -1,13 +1,13 @@
 ---
 name: otterline
-description: "Free high win rate daily NBA & NHL moneyline picks from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed."
+description: "Free sports betting picks: high win rate daily NBA & NHL moneyline winners from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed."
 homepage: https://otterline.club
 metadata: {"clawdbot":{"emoji":"🦦"}}
 ---
 
-# Otterline — Free NBA + NHL Picks
+# Otterline Sports Predictions Professional | NBA & NHL AI Picks
 
-Free daily sample **NBA picks** and **NHL picks** (winner / moneyline-style) from Otterline. No authentication required.
+Free daily sample **sports betting picks** for **NBA** and **NHL** (moneyline winners) from Otterline. No authentication required.
 
 For entertainment only; bet responsibly.
 

@@ -1,6 +1,6 @@
-# 🦦 Otterline — Free NBA + NHL Picks for OpenClaw
+# 🦦 Otterline Sports Predictions Professional | NBA & NHL AI Picks
 
-Free high win rate daily NBA & NHL moneyline picks from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed.
+Free sports betting picks: high win rate daily NBA & NHL moneyline winners from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed.
 
 Otterline returns a small daily sample (up to 4 picks per league). If there are no games, it’ll say so and you can ask for another date.
 
