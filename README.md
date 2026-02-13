@@ -1,6 +1,8 @@
 # 🦦 Otterline Sports Predictions Professional | NBA & NHL AI Picks
 
-Free sports betting picks: high win rate daily NBA & NHL moneyline winners from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed.
+Free Sports Betting Predictions and Picks for NBA and NHL: high win rate daily moneyline winners from Otterline's AI consensus model. Confidence-tiered (Elite -> Strong). No API key needed.
+
+Keywords: Sports Betting, Predictions, Picks, NBA, NHL.
 
 Otterline returns a small daily sample (up to 4 picks per league). If there are no games, it’ll say so and you can ask for another date.
 
