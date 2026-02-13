@@ -1,6 +1,6 @@
 {
   "name": "otterline",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Free daily sample NBA + NHL winner picks (moneyline-style) from Otterline. Tiered picks with per-pick confidence stats. No API key required.",
   "author": "otterline",
   "homepage": "https://otterline.club",
