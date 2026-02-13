@@ -1,6 +1,6 @@
 ---
 name: otterline
-description: Daily free sample NBA + NHL moneyline winner picks from Otterline (tiered: Elite, Verified, Strong). No API key required.
+description: "Daily free sample NBA picks + NHL picks (moneyline winners) from Otterline. Tiers: Elite, Verified, Strong. No API key required."
 homepage: https://otterline.club
 metadata: {"clawdbot":{"emoji":"🦦"}}
 ---
