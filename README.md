@@ -27,6 +27,7 @@ Plain-English prompts:
 - "Any elite NBA picks today?"
 - "Show me NHL picks for 2026-02-05"
 - "What's the best bet today?"
+- "NBA picks for tomorrow (2026-02-14)"
 
 ### What You’ll See
 
